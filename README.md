@@ -23,8 +23,8 @@ Apache ECharts is a powerful, open-source charting library that supports a wide 
 ## Usage
 
 The project includes reusable chart components using echarts-for-react. Example charts include:
-Line Chart
-Pie Chart
+Line Chart, 
+Pie Chart, and 
 Gradient Area Chart
 You can customize chart options by modifying the option object passed to the ECharts component.
 
