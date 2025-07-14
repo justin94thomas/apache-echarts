@@ -1,7 +1,9 @@
 import React from 'react';
-import * as echarts from 'echarts';
 import './style.css';
 import ECharts from '../../Components/ECharts';
+import * as echarts from 'echarts';
+
+// import { EChartsOption } from 'echarts'; // For TypeScript
 
 const lineOption = {
   title: { text: 'Line Chart Example' },
