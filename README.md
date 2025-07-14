@@ -14,14 +14,6 @@ Apache ECharts is a powerful, open-source charting library that supports a wide 
 
 ## 🚀 Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-   ```
-
-## 🚀 Installation
-
 ### `npm install`
 
 ## Start the development server:
